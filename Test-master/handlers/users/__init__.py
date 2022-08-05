@@ -3,6 +3,7 @@ from . import kontenthandlers
 from . import hashtaghandlers
 from . import idhandlers
 from . import texthandlers
+from . import regexhandlers
 from . import help
 from . import start
 from . import echo
