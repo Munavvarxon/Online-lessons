@@ -6,6 +6,7 @@ from . import texthandlers
 from . import regexhandlers
 from . import stateshandlers
 from . import adminhandlers
+from . import otherhandlers
 from . import help
 from . import start
 from . import echo
